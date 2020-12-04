@@ -1,8 +1,7 @@
 package com.e.mymovies.ui;
 
 
-
-import com.e.mymovie.domain.Movie;
+import com.e.mymovies.domain.Movie;
 
 public interface MovieClick {
 

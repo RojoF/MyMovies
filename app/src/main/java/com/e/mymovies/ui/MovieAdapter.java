@@ -8,11 +8,13 @@ import android.widget.TextView;
 
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.e.mymovie.R;
-import com.e.mymovie.domain.Movie;
+
+import com.e.mymovies.R;
+import com.e.mymovies.domain.Movie;
 import com.squareup.picasso.Picasso;
 
 import java.util.List;
+
 
 public class MovieAdapter extends RecyclerView.Adapter<MovieAdapter.MovieViewHolder> {
 

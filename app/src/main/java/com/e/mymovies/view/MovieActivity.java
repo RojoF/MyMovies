@@ -8,15 +8,16 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.databinding.DataBindingUtil;
 import androidx.recyclerview.widget.LinearLayoutManager;
 
-import com.e.mymovie.R;
-import com.e.mymovie.databinding.ActivityMainBinding;
-import com.e.mymovie.domain.Movie;
-import com.e.mymovie.net.GetMoviesCall;
-import com.e.mymovie.net.WebService;
-import com.e.mymovie.ui.MovieAdapter;
-import com.e.mymovie.ui.MovieClick;
+import com.e.mymovies.R;
+import com.e.mymovies.databinding.ActivityMainBinding;
+import com.e.mymovies.domain.Movie;
+import com.e.mymovies.net.GetMoviesCall;
+import com.e.mymovies.net.WebService;
+import com.e.mymovies.ui.MovieAdapter;
+import com.e.mymovies.ui.MovieClick;
 
 import java.util.List;
+
 
 public class MovieActivity extends AppCompatActivity {
 

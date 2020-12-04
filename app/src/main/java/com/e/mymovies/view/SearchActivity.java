@@ -8,8 +8,8 @@ import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.databinding.DataBindingUtil;
 
-import com.e.mymovie.R;
-import com.e.mymovie.databinding.ActivitySearchBinding;
+import com.e.mymovies.R;
+import com.e.mymovies.databinding.ActivitySearchBinding;
 
 
 public class SearchActivity extends AppCompatActivity {
