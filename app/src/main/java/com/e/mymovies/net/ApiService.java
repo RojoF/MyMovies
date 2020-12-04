@@ -1,7 +1,7 @@
 package com.e.mymovies.net;
 
-import com.e.mymovie.data.MoviesWrapperResponse;
-import com.e.mymovie.domain.Movie;
+import com.e.mymovies.data.MoviesWrapperResponse;
+import com.e.mymovies.domain.Movie;
 
 import retrofit2.Call;
 import retrofit2.http.GET;
